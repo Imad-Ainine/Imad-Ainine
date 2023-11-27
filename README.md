@@ -6,7 +6,7 @@ style="
   gap: 20px;
 "
 >
-### Hi there 👋
+Hi there 👋
 **Imad-Ainine/Imad-Ainine** is a ✨ _special_ ✨ 
 <ul style="list-style: none">
   <li>- 🔭 I’m currently working on ...</li>
