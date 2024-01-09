@@ -3,7 +3,6 @@
 
   <p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Aindefla, ALgerie</b>, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Bouzereah, Algerie</b>. </p>
 <h3>Things I code with</h3>
-**Languages and Tools:**
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -68,7 +67,7 @@
         <a href="https://app.daily.dev/ainineimadeddine"
           ><img
             src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t"
-            width="300"
+            width="100"
             alt="Ainine's Dev Card"
         /></a>
       </div>
