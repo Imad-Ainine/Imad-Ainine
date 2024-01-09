@@ -33,14 +33,12 @@
 <div
 style="
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-around;
   gap: 20px;
 "
 >
-Hi there 👋
-
-<ul style="list-style: none">
+  <ul style="list-style: none">
   <li>- 🔭 I’m currently working on ...</li>
   <li>- 🌱 I’m currently learning ...</li>
   <li>- 👯 I’m looking to collaborate on ...</li>
