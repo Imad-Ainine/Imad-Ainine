@@ -5,6 +5,35 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 <p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b> ALgeria </b>, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Bouzereah, Algerie</b>. </p>
+ 
+ - 🧠 I am proud to have a unique background that combines systems
+          engineering, computer networks, and software development. In my
+          various roles, I found myself regularly required to address technical
+          challenges, solve programming problems, and participate with different
+          teams working on different projects. I am driven internally by my love
+          for programming and I enjoy every opportunity to tackle the deepest
+          technical challenges. From developing a user-friendly front-end to
+          building reliable web servers, I have worked on many projects. I still
+          strive and work hard to contribute to various projects, God willing
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
+- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
 
@@ -22,32 +51,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <ul>
-  <li style="max-width: 500px; display: flex; align-items: flex-start">
-          - 🔭 I’m currently working on ...
-  </li>
-  <li style="max-width: 500px; display: flex; align-items: flex-start">
-          - 🌱 I’m currently learning ...
-  </li>
-  <li style="max-width: 500px; display: flex; align-items: flex-start">
-          - 👯 I’m looking to collaborate on ...
-  </li>
-  <li style="max-width: 500px; display: flex; align-items: flex-start">
-          - 🤔 I’m looking for help with ...
-  </li>
-  <li style="max-width: 500px; display: flex; align-items: flex-start">
-          - 💬 Ask me about ...
-  </li>
-  <li style="max-width: 500px; display: flex; align-items: flex-start">
-          - 🧠 I am proud to have a unique background that combines systems
-          engineering, computer networks, and software development. In my
-          various roles, I found myself regularly required to address technical
-          challenges, solve programming problems, and participate with different
-          teams working on different projects. I am driven internally by my love
-          for programming and I enjoy every opportunity to tackle the deepest
-          technical challenges. From developing a user-friendly front-end to
-          building reliable web servers, I have worked on many projects. I still
-          strive and work hard to contribute to various projects, God willing
-  </li>
+  
+ 
 </ul>
 
 
