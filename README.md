@@ -4,12 +4,7 @@
   <p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Aindefla, ALgerie</b>, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Bouzereah, Algerie</b>. </p>
 <h3>Things I code with</h3>
 **Languages and Tools:**
-<p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
-</p>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next" src="https://img.shields.io/badge/-Next-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
