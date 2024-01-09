@@ -18,7 +18,7 @@ strive and work hard to contribute to various projects, God willing
 
 ### Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://dami-blog.vercel.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t" align="right"  width="375" alt="Ainine's Dev Card" />
 
@@ -26,15 +26,15 @@ strive and work hard to contribute to various projects, God willing
 
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me anything [here](https://github.com/Imad-Ainine/Imad-Ainine)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 📫 &nbsp; Reach me out: imad.ainine11@gmail.com.
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+- 🍕 &nbsp; Meetups & Tech Events.
 
 ### Languages and Tools:
 
