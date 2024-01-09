@@ -25,9 +25,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<div style="display: flex; justify-content: space-around">
-      <ul
-        style="
+<p>
+   <ul
+      style="
           list-style: none;
           width: calc(100% - 300px);
           display: flex;
@@ -71,7 +71,7 @@
             alt="Ainine's Dev Card"
         /></a>
       </div>
-    </div>
+    </p>
   
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Imad-Ainine/Imad-Ainine" target="_blank"><img alt="Github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="40" style="margin-right:"10px""/></a> <a href="https://twitter.com/imad_ainine" target="_blank"><img alt="Twitter" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="40"/></a> <a href="https://www.linkedin.com/in/imadeddine-ainine/" target="_blank"><img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" width="40"/></a>
