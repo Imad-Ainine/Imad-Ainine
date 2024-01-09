@@ -1,10 +1,7 @@
 <h1 align="center">Hi there ,<a href="https://www.blackcater.win/" target="_blank"> I'm Imadeddine</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <br />
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
 
 <p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b> ALgeriq </b>, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Bouzereah, Algerie</b>. </p>
 <h3>Things I code with</h3>
