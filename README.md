@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from <img src="[https://cdn-icons-png.flaticon.com/512/197/197560.png](https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg)" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+  <p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/> <b>Aindefla, ALgerie</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/> <b>Bouzereah, Algerie</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -39,7 +39,7 @@ style="
 "
 >
 Hi there 👋
-**Imad-Ainine/Imad-Ainine** is a ✨ _special_ ✨ 
+
 <ul style="list-style: none">
   <li>- 🔭 I’m currently working on ...</li>
   <li>- 🌱 I’m currently learning ...</li>
