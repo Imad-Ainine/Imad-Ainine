@@ -4,8 +4,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b> ALgeria </b>, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Bouzereah, Algerie</b>. </p>
-<h3>Things I code with</h3>
 
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://app.daily.dev/ainineimadeddine"><img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t" width="498" alt="Ainine's Dev Card" /></a> 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -22,6 +27,8 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
+<h3>Things I code with</h3>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -71,7 +78,6 @@ const thai = {
           strive and work hard to contribute to various projects, God willing
   </li>
 </ul>
-<a href="https://app.daily.dev/ainineimadeddine"><img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t" width="300" alt="Ainine's Dev Card" /></a> 
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/Imad-Ainine/Imad-Ainine" target="_blank"><img alt="Github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="40" style="margin-right:"10px""/></a> 
