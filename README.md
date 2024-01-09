@@ -1,7 +1,8 @@
 <h1 align="center">Hi there ,<a href="https://www.blackcater.win/" target="_blank"> I'm Imadeddine</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <br />
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 <p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b> ALgeria </b>, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Bouzereah, Algerie</b>. </p>
 
@@ -49,8 +50,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </li>
 </ul>
 
-
-📅 **I spend my time in** 
 
 <a href="https://app.daily.dev/ainineimadeddine"><img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t" width="300" alt="Ainine's Dev Card" /></a> 
 
