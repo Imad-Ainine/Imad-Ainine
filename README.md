@@ -5,21 +5,22 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 <p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b> ALgeria </b>, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Bouzereah, Algerie</b>. </p>
- 
- - 🧠 I am proud to have a unique background that combines systems
-          engineering, computer networks, and software development. In my
-          various roles, I found myself regularly required to address technical
-          challenges, solve programming problems, and participate with different
-          teams working on different projects. I am driven internally by my love
-          for programming and I enjoy every opportunity to tackle the deepest
-          technical challenges. From developing a user-friendly front-end to
-          building reliable web servers, I have worked on many projects. I still
-          strive and work hard to contribute to various projects, God willing
-Like My Work?
+
+🧠 I am proud to have a unique background that combines systems
+engineering, computer networks, and software development. In my
+various roles, I found myself regularly required to address technical
+challenges, solve programming problems, and participate with different
+teams working on different projects. I am driven internally by my love
+for programming and I enjoy every opportunity to tackle the deepest
+technical challenges. From developing a user-friendly front-end to
+building reliable web servers, I have worked on many projects. I still
+strive and work hard to contribute to various projects, God willing
+
+### Like My Work?
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t" align="right" height="250" width="375" alt="Ainine's Dev Card" />
 
 ### Talking about Personal Stuff:
 
@@ -56,7 +57,7 @@ Like My Work?
 </ul>
 
 
-<a href="https://app.daily.dev/ainineimadeddine"><img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t" width="300" alt="Ainine's Dev Card" /></a> 
+
 
 <h3>Where to find me</h3>
 <p>
