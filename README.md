@@ -58,6 +58,11 @@ strive and work hard to contribute to various projects, God willing
   <a href="https://www.instagram.com/imad_ainine/" target="_blank"><img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40"/></a>
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+#
 
----
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
