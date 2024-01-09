@@ -30,6 +30,14 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+      <div style="padding: 20px">
+        <a href="https://app.daily.dev/ainineimadeddine"
+          ><img
+            src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t"
+            width="300"
+            alt="Ainine's Dev Card"
+        /></a>
+      </div>
 <div style="display: flex; justify-content: space-around">
       <ul
         style="
