@@ -5,20 +5,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b> ALgeria </b>, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Bouzereah, Algerie</b>. </p>
 
-[```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```](url)
 
 <h3>Things I code with</h3>
 
@@ -70,7 +56,7 @@ const thai = {
           strive and work hard to contribute to various projects, God willing
   </li>
 </ul>
-<a href="https://app.daily.dev/ainineimadeddine"><img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t" width="250" alt="Ainine's Dev Card" /></a> 
+<a href="https://app.daily.dev/ainineimadeddine"><img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t" width="300" alt="Ainine's Dev Card" /></a> 
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/Imad-Ainine/Imad-Ainine" target="_blank"><img alt="Github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="40" style="margin-right:"10px""/></a> 
@@ -79,6 +65,6 @@ const thai = {
   <a href="https://www.instagram.com/imad_ainine/" target="_blank"><img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40"/></a>
 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
