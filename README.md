@@ -5,16 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p>Welcome to my page! </br> I'm Imadeddine, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b> ALgeria </b>, currently living in  <img src="https://cdn-icons-png.flaticon.com/512/9906/9906440.png" width="13"/>  <b>Bouzereah, Algerie</b>. </p>
 
-
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
+[```javascript
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -27,7 +18,7 @@ const thai = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
-```
+```](url)
 
 <h3>Things I code with</h3>
 
