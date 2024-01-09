@@ -25,7 +25,7 @@ strive and work hard to contribute to various projects, God willing
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 🚀 &nbsp; I’m currently exploring .....
 - 💬 &nbsp; Ask me anything [here](https://github.com/Imad-Ainine/Imad-Ainine)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: imad.ainine11@gmail.com.
