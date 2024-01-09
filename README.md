@@ -20,7 +20,7 @@ strive and work hard to contribute to various projects, God willing
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t" align="right" height="250" width="375" alt="Ainine's Dev Card" />
+<img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=16t" align="right"  width="375" alt="Ainine's Dev Card" />
 
 ### Talking about Personal Stuff:
 
@@ -49,17 +49,8 @@ strive and work hard to contribute to various projects, God willing
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###  Where to find me 
 
-<ul>
-  
- 
-</ul>
-
-
-
-
-<h3>Where to find me</h3>
 <p>
   <a href="https://github.com/Imad-Ainine/Imad-Ainine" target="_blank"><img alt="Github" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="40" style="margin-right:"10px""/></a> 
   <a href="https://twitter.com/imad_ainine" target="_blank"><img alt="Twitter" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="40"/></a>
