@@ -1,4 +1,4 @@
-<h1 align="center">Hi there ,<a href="https://www.blackcater.win/" target="_blank"> I'm Imadeddine</a> <img
+<h1 align="center">Hi there ,<a href="" target="_blank"> I'm Imadeddine</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <br />
 
@@ -20,7 +20,7 @@ strive and work hard to contribute to various projects, God willing
 
 <a href="https://dami-blog.vercel.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<a href="https://app.daily.dev/ainine_imad" style="float:right" ><img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=xe3" width="300" alt="Ainine's Dev Card"/></a>
+<a href="https://app.daily.dev/ainine_imad" ><img src="https://api.daily.dev/devcards/bd5ec23128c34193afe2dcd3a418ec98.png?r=xe3" align="right" width="300" alt="Ainine's Dev Card"/></a>
 
 ### Talking about Personal Stuff:
 
